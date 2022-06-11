@@ -50,7 +50,7 @@
     "angular-touch": "^1.8.2",
     "favico.js": "^0.3.10",
     "jquery-linkify": "^2.2.1",
-    "underscore": "^1.10.2",
+    "underscore": "^1.13.3",
     "zlibjs": "^0.3.1"
   }
 }
